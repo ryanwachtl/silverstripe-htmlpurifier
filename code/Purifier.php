@@ -1,5 +1,5 @@
 <?php
-
+require_once(__DIR__ . '/../thirdparty/HTMLPurifier.standalone.php');
 /**
  * Standard HTML purifier
  */
